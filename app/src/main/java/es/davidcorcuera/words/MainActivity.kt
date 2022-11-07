@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        setSupportActionBar(binding.toolbar)
 
         recyclerView = binding.recyclerView
         // Sets the LinearLayoutManager of the recyclerview

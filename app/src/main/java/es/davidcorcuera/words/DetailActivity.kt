@@ -37,6 +37,7 @@ class DetailActivity : AppCompatActivity() {
         // For example, a View with the id word_one is referenced as binding.wordOne
         val binding = ActivityDetailBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        setSupportActionBar(binding.toolbar)
 
         // Retrieve the LETTER from the Intent extras
         // intent.extras.getString returns String? (String or null)
