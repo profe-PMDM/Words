@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/drawable-v24/ic_grid_layout.xml" value="0.1" />
+        <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/drawable/ic_grid_layout.xml" value="0.1" />
+        <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/drawable/ic_linear_layout.xml" value="0.164" />
         <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/layout/activity_detail.xml" value="0.15052083333333333" />
         <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/layout/activity_main.xml" value="0.1171875" />
         <entry key="..\:/Users/David/StudioProjects/kotlin/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.15052083333333333" />
